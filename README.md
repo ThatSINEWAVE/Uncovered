@@ -1,6 +1,6 @@
 # Uncovered Tool
 
-Uncovered Tool is a simple web application designed to perform domain/IP scans. It retrieves information about a provided domain or IP address, utilizing the IP-API service for IP information. Please note that the WHOIS lookup feature is not fully implemented at the moment but will be integrated in the future.
+Uncovered is a simple web application designed to perform domain/IP scans. It retrieves information about a provided domain or IP address, utilizing the IP-API service for IP information. Please note that the WHOIS lookup feature is not fully implemented at the moment but will be integrated in the future.
 
 <div align="center">
 
