@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Domain/IP Scan</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/whois-js@1.0.7/dist/whois.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Domain/IP Scan</h1>
+        <div class="input-container">
+            <input type="text" id="input" placeholder="Enter a domain or IP">
+            <button id="scan-btn">Scan</button>
+        </div>
+        <div id="result_1">
+            <div id="ip-api-info"></div>
+        </div>
+        <div id="result_2">
+            <div id="whois-info"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
