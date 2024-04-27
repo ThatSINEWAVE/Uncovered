@@ -22,10 +22,17 @@ body {
 
 h1 {
     text-align: center;
+    margin-bottom: 5px;
     color: #fff;
 }
 
 h2 {
+    text-align: center;
+    color: #fff;
+}
+
+h3 {
+    margin-top: 10px;
     text-align: center;
     color: #fff;
 }
