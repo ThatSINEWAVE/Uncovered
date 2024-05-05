@@ -1,6 +1,10 @@
+<div align="center">
+
 # Uncovered Tool
 
 Uncovered is a simple web application designed to perform domain/IP scans. It retrieves information about a provided domain or IP address, utilizing the IP-API service for IP information and the HackerTarget API for various other tasks.
+
+</div>
 
 <div align="center">
 
